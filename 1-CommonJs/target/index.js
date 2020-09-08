@@ -1,0 +1,1 @@
+module.exports.msg = '路径匹配完成 => package.json => main 字段'
