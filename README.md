@@ -1,2 +1,2 @@
 # js-module
-CommonJs, AMD, CMD, ES Module
+CommonJs, AMD, CMD, ES6 Module
